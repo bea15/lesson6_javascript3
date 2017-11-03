@@ -13,8 +13,7 @@ Web Application Development
 (For this assignment we were taught how to develop an application that showed a gallery of pictures of cars that the user could scroll through and click to see more.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://bea15.github.io/lesson6_javascript3/Lesson6_photogallery/)
 
 ### Lessons Learned in the Assignment:
 1. (Modifying page content requires a way to refer to different components of the web browser and the current document.)
